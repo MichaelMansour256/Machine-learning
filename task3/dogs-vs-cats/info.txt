@@ -1,0 +1,38 @@
+name : michael mansour ghaly
+in arabic : مايكل منصور غالي
+id : 2017170556
+section : 1(B)
+department : sc
+
+
+
+
+conclusion
+
+data size : 2500
+train(80%): 2000
+test (20%):  500
+
+
+accuracy for training data
+0.9075 for linear svm one vs one (SVC)
+0.975  for linear svm one vs all (LinearSVC)
+1.0    for SVC kernel rbf , gamma 0.8 
+1.0    for SVC kernel poly , degree 5
+
+
+time : 6 min (for reading images and extract features and train the 4 models)
+
+
+accuracy for testing data
+0.69 
+0.65
+0.5
+0.73
+
+
+so form the testing result the best model is 
+SVC kernel poly , degree 5 , c=0.1
+with accuracy = 0.73 %
+
+

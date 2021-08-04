@@ -1,0 +1,7 @@
+name : michael mansour ghaly
+in arabic : مايكل منصور غالي
+id : 2017170556
+section : 1(B)
+department : sc
+
+

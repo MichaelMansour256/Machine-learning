@@ -1,0 +1,13 @@
+name : michael mansour ghaly
+in arabic : مايكل منصور غالي
+id : 2017170556
+section : 1(B)
+department : sc
+
+
+conclusion:
+my model1 use the sqft_living as X and get Mean Square Error 68351286833.039825
+and model2 use the bathrooms as X and get Mean Square Error 97609006404.64667
+i tried the other two columns but i got greater values than these two so the best x is sqft_living
+and the second best is bathrooms and i think these two columns are related 
+as sqft_living is large then the number of bathrooms is bigger and so on
